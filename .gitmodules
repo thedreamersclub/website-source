@@ -1,0 +1,6 @@
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/vickylai/hugo-theme-sam.git
+[submodule "thedreamersclub"]
+	path = thedreamersclub
+	url = https://github.com/thedreamersclub/thedreamersclub.github.io.git
