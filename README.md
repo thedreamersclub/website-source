@@ -20,4 +20,4 @@ A copy of Apache License 2.0 will be provided with this repository.
 
 The Sam theme is licensed under Creative Commons Attribution 3.0 Unported license and is the work of Vicky Lai who __in no way endorses__ this repository.
 
-The `sebastianlau` folder is available for viewing but all post content and all media files, including but not limited to documents, images, sound files and video files, are © 2018 Sebastian Lau.
+The `thedreamersclub` folder is available for viewing but all post content and all media files, including but not limited to documents, images, sound files and video files, are © 2018 Sebastian Lau.
